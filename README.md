@@ -1,3 +1,11 @@
+hjsfd93
+http://localhost:3000/api/preview?secret=<secret>&slug=draft
+http://localhost:3000/api/preview?secret=hjsfd93&slug=from-server-side-rendering-to-static-generation
+http://localhost:3000/posts/draft
+
+
+ref: https://github.com/vercel/next.js/tree/canary/examples/cms-strapi#step-7-set-up-environment-variables
+
 # A statically generated blog example using Next.js and Strapi
 
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [Strapi](https://strapi.io/) as the data source.
